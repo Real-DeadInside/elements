@@ -39,9 +39,9 @@
 				<thead>
 					<tr><td>Spell Level</td><td>Spells</td></tr>
 				</thead>
-				<tr><td>1st</td><td><em>alarm, ray of sickness</em></td></tr>
+				<tr><td>1st</td><td><em>alarm, spider's kiss</em></td></tr>
 				<tr><td>2nd</td><td><em>silence, web</em></td></tr>
-				<tr><td>3rd</td><td><em>feign death, nondetection</em></td></tr>
+				<tr><td>3rd</td><td><em>shadow toxin, nondetection</em></td></tr>
 				<tr><td>4th</td><td><em>compulsion, phantasmal killer</em></td></tr>
 				<tr><td>5th</td><td><em>modify memory, insect plague</em></td></tr>
 			</table>
@@ -51,10 +51,10 @@
 		</sheet>
 		<spellcasting name="Warlock" extend="true">
 			<extend>ID_PHB_SPELL_ALARM</extend>
-			<extend>ID_PHB_SPELL_RAY_OF_SICKNESS</extend>
+			<extend>ID_GFP_COFSA_SPELL_SPIDER'S_KISS</extend>
 			<extend>ID_GFP_COFSA_SPELL_SILENCE</extend>
 			<extend>ID_GFP_COFSA_SPELL_WEB</extend>
-			<extend>ID_GFP_COFSA_SPELL_FEIGN_DEATH</extend>
+			<extend>ID_GFP_COFSA_SPELL_SHADOW_TOXIN</extend>
 			<extend>ID_GFP_COFSA_SPELL_NONDETECTION</extend>
 			<extend>ID_PHB_SPELL_COMPULSION</extend>
 			<extend>ID_GFP_COFSA_SPELL_PHANTASMAL_KILLER</extend>
